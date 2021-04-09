@@ -1,2 +1,4 @@
 respuesta a la pregunta #1:
  empleados, clientes, proveedores ycompetencia
+respuesta a la pregunta #2:
+ el hardware, el software, los datos de las actividades de la empresa y la red que permite compartir recursos entre computadoras
